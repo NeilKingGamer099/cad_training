@@ -4,13 +4,13 @@
             <element>number</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-10-15 14:59:38</sys_created_on>
-            <sys_id>d754fd8d9f5112107f44245c7124ab7c</sys_id>
+            <sys_created_on>2024-10-15 16:54:15</sys_created_on>
+            <sys_id>8e9e8ac99fd112107f44245c7124ab19</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_cdltd_loaner_req_loaner_request" sys_domain="global" view="Default view">a0e954f89f5112107f44245c7124abcc</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-10-15 14:59:38</sys_updated_on>
+            <sys_updated_on>2024-10-15 16:54:15</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,13 +18,13 @@
             <element>requested_for</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-10-15 14:59:38</sys_created_on>
-            <sys_id>5b54fd8d9f5112107f44245c7124ab7c</sys_id>
+            <sys_created_on>2024-10-15 16:54:15</sys_created_on>
+            <sys_id>069e8ac99fd112107f44245c7124ab1a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_cdltd_loaner_req_loaner_request" sys_domain="global" view="Default view">a0e954f89f5112107f44245c7124abcc</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-10-15 14:59:38</sys_updated_on>
+            <sys_updated_on>2024-10-15 16:54:15</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -32,13 +32,13 @@
             <element>cmdb_ci</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-10-15 14:59:38</sys_created_on>
-            <sys_id>db54fd8d9f5112107f44245c7124ab7c</sys_id>
+            <sys_created_on>2024-10-15 16:54:15</sys_created_on>
+            <sys_id>869e8ac99fd112107f44245c7124ab1a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_cdltd_loaner_req_loaner_request" sys_domain="global" view="Default view">a0e954f89f5112107f44245c7124abcc</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-10-15 14:59:38</sys_updated_on>
+            <sys_updated_on>2024-10-15 16:54:15</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -46,13 +46,13 @@
             <element>assigned_to</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-10-15 14:59:38</sys_created_on>
-            <sys_id>5f54fd8d9f5112107f44245c7124ab7c</sys_id>
+            <sys_created_on>2024-10-15 16:54:15</sys_created_on>
+            <sys_id>0a9e8ac99fd112107f44245c7124ab1a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_cdltd_loaner_req_loaner_request" sys_domain="global" view="Default view">a0e954f89f5112107f44245c7124abcc</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-10-15 14:59:38</sys_updated_on>
+            <sys_updated_on>2024-10-15 16:54:15</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -60,13 +60,13 @@
             <element>.split</element>
             <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-10-15 14:59:38</sys_created_on>
-            <sys_id>df54fd8d9f5112107f44245c7124ab7c</sys_id>
+            <sys_created_on>2024-10-15 16:54:15</sys_created_on>
+            <sys_id>8a9e8ac99fd112107f44245c7124ab1a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_cdltd_loaner_req_loaner_request" sys_domain="global" view="Default view">a0e954f89f5112107f44245c7124abcc</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-10-15 14:59:38</sys_updated_on>
+            <sys_updated_on>2024-10-15 16:54:15</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
@@ -74,13 +74,13 @@
             <element>state</element>
             <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-10-15 14:59:38</sys_created_on>
-            <sys_id>5354fd8d9f5112107f44245c7124ab7d</sys_id>
+            <sys_created_on>2024-10-15 16:54:15</sys_created_on>
+            <sys_id>0e9e8ac99fd112107f44245c7124ab1a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_cdltd_loaner_req_loaner_request" sys_domain="global" view="Default view">a0e954f89f5112107f44245c7124abcc</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-10-15 14:59:38</sys_updated_on>
+            <sys_updated_on>2024-10-15 16:54:15</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -88,13 +88,13 @@
             <element>start_date</element>
             <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-10-15 14:59:38</sys_created_on>
-            <sys_id>d354fd8d9f5112107f44245c7124ab7d</sys_id>
+            <sys_created_on>2024-10-15 16:54:15</sys_created_on>
+            <sys_id>8e9e8ac99fd112107f44245c7124ab1a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_cdltd_loaner_req_loaner_request" sys_domain="global" view="Default view">a0e954f89f5112107f44245c7124abcc</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-10-15 14:59:38</sys_updated_on>
+            <sys_updated_on>2024-10-15 16:54:15</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -102,13 +102,13 @@
             <element>end_date</element>
             <position>7</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-10-15 14:59:38</sys_created_on>
-            <sys_id>5754fd8d9f5112107f44245c7124ab7d</sys_id>
+            <sys_created_on>2024-10-15 16:54:15</sys_created_on>
+            <sys_id>029e8ac99fd112107f44245c7124ab1b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_cdltd_loaner_req_loaner_request" sys_domain="global" view="Default view">a0e954f89f5112107f44245c7124abcc</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-10-15 14:59:38</sys_updated_on>
+            <sys_updated_on>2024-10-15 16:54:15</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -116,13 +116,13 @@
             <element>item_type</element>
             <position>8</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-10-15 14:59:38</sys_created_on>
-            <sys_id>d754fd8d9f5112107f44245c7124ab7d</sys_id>
+            <sys_created_on>2024-10-15 16:54:15</sys_created_on>
+            <sys_id>829e8ac99fd112107f44245c7124ab1b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_cdltd_loaner_req_loaner_request" sys_domain="global" view="Default view">a0e954f89f5112107f44245c7124abcc</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-10-15 14:59:38</sys_updated_on>
+            <sys_updated_on>2024-10-15 16:54:15</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -130,13 +130,13 @@
             <element>location_to_be_used</element>
             <position>9</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-10-15 14:59:38</sys_created_on>
-            <sys_id>5b54fd8d9f5112107f44245c7124ab7d</sys_id>
+            <sys_created_on>2024-10-15 16:54:15</sys_created_on>
+            <sys_id>069e8ac99fd112107f44245c7124ab1b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_cdltd_loaner_req_loaner_request" sys_domain="global" view="Default view">a0e954f89f5112107f44245c7124abcc</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-10-15 14:59:38</sys_updated_on>
+            <sys_updated_on>2024-10-15 16:54:15</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -144,55 +144,69 @@
             <element>depot</element>
             <position>10</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-10-15 14:59:38</sys_created_on>
-            <sys_id>db54fd8d9f5112107f44245c7124ab7d</sys_id>
+            <sys_created_on>2024-10-15 16:54:15</sys_created_on>
+            <sys_id>869e8ac99fd112107f44245c7124ab1b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_cdltd_loaner_req_loaner_request" sys_domain="global" view="Default view">a0e954f89f5112107f44245c7124abcc</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-10-15 14:59:38</sys_updated_on>
+            <sys_updated_on>2024-10-15 16:54:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>other</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-15 16:54:15</sys_created_on>
+            <sys_id>0a9e8ac99fd112107f44245c7124ab1b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_cdltd_loaner_req_loaner_request" sys_domain="global" view="Default view">a0e954f89f5112107f44245c7124abcc</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-15 16:54:15</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.end_split</element>
-            <position>11</position>
+            <position>12</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-10-15 14:59:38</sys_created_on>
-            <sys_id>5f54fd8d9f5112107f44245c7124ab7d</sys_id>
+            <sys_created_on>2024-10-15 16:54:15</sys_created_on>
+            <sys_id>8a9e8ac99fd112107f44245c7124ab1b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_cdltd_loaner_req_loaner_request" sys_domain="global" view="Default view">a0e954f89f5112107f44245c7124abcc</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-10-15 14:59:38</sys_updated_on>
+            <sys_updated_on>2024-10-15 16:54:15</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>short_description</element>
-            <position>12</position>
+            <position>13</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-10-15 14:59:38</sys_created_on>
-            <sys_id>df54fd8d9f5112107f44245c7124ab7d</sys_id>
+            <sys_created_on>2024-10-15 16:54:15</sys_created_on>
+            <sys_id>0e9e8ac99fd112107f44245c7124ab1b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_cdltd_loaner_req_loaner_request" sys_domain="global" view="Default view">a0e954f89f5112107f44245c7124abcc</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-10-15 14:59:38</sys_updated_on>
+            <sys_updated_on>2024-10-15 16:54:15</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>description</element>
-            <position>13</position>
+            <position>14</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-10-15 14:59:38</sys_created_on>
-            <sys_id>5354fd8d9f5112107f44245c7124ab7e</sys_id>
+            <sys_created_on>2024-10-15 16:54:15</sys_created_on>
+            <sys_id>8e9e8ac99fd112107f44245c7124ab1b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_cdltd_loaner_req_loaner_request" sys_domain="global" view="Default view">a0e954f89f5112107f44245c7124abcc</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-10-15 14:59:38</sys_updated_on>
+            <sys_updated_on>2024-10-15 16:54:15</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
